@@ -7,6 +7,7 @@ categories: ergonomic keyboards
 ---
 
 Script used: [`character_count.py`](https://github.com/happyRip/symbol-layer-research/blob/master/character_count.py)
+Plots generated with `matplotlib`.
 
 ## Let's see some graphs!
 
