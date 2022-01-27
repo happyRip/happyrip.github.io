@@ -13,20 +13,20 @@ Plots generated with `matplotlib`.
 
 ### Go
 
-| ![](kubernetes.png)                                                    |
+| ![](assets/kubernetes.png)                                                    |
 | <center><em>Occurence of symbol characters in <tt>kubernetes</tt></em></center> |
 
 ### C++
 
-| ![](imgui.png)                                                    |
+| ![](assets/imgui.png)                                                    |
 | <center><em>Occurence of symbol characters in <tt>imgui</tt></em></center> |
 
 ### Rust
 
-| ![](copper.png)                                                    |
+| ![](assets/copper.png)                                                    |
 | <center><em>Occurence of symbol characters in <tt>copper</tt></em></center> |
 
 ### Python
 
-| ![](django.png)                                                    |
+| ![](assets/django.png)                                                    |
 | <center><em>Occurence of symbol characters in <tt>django</tt></em></center> |
